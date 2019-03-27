@@ -73,7 +73,7 @@ def in1():
     for i in range(k):
         temp = []
         for j in range(len(x[0])):
-            temp.append((random.random())*100)
+            temp.append((random.random())*120)
         centroids.append(temp)
    # print(x)
     #print(centroids)
